@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Raleway&display=swap");
+
+body {
+  background-image: url(../images/predio_oscar_com_flores_com_zoom.jpeg);
+  background-size: cover;
+  height: 2000px;
+  /* max-height: x; */
+  /* min-height: x; */
+}
+
+header {
+  padding: 10px;
+}
+.cabecalho {
+  font-family: "Oswald", sans-serif;
+  background-color: yellow;
+  font-size: 48px;
+  padding: 10px;
+}
+.inicio {
+  font-family: "Raleway", sans-serif;
+  background-color: rgba(255, 255, 255, 0.535);
+  border-radius: 5px;
+  font-size: 24px;
+}
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 100%; */
+}
